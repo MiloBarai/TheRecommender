@@ -9,7 +9,6 @@ public enum RecommendationGenre {
     MYSTERY,
     ADVENTURE,
     VAMPIRE,
-    YAOI,
     ECCHI,
     KIDS,
     SPACE,
@@ -31,7 +30,6 @@ public enum RecommendationGenre {
     SCI_FI,
     SHOUNEN_AI,
     JOSEI,
-    HENTAI,
     HISTORICAL,
     SUPERNATURAL,
     MILITARY,
@@ -41,7 +39,6 @@ public enum RecommendationGenre {
     HAREM,
     HORROR,
     MECHA,
-    YURI,
     PARODY,
     SHOUJO,
     NO_GENRE
